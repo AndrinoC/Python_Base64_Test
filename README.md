@@ -5,6 +5,6 @@
  
  Objetivo: Codificar imagens e gifs para base64. Decodificar base64 para .png, .png ou .gif.
  
- Como usar: Arrase uma imagem para o Encode.bat para codificar ela. Arraste qualquer .txt que contenha o código base64 de uma imagem ou gif para o Decode.bat para decodificar.
+ Como usar: Arraste uma imagem para o Encode.bat para codificar ela. Arraste qualquer .txt que contenha o código base64 de uma imagem ou gif para o Decode.bat para decodificar.
 
  Download: https://github.com/AndrinoC/Base64_Images/archive/refs/heads/main.zip
